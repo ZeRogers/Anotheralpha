@@ -7,7 +7,7 @@ const DisTube = require("distube");
 const radio = require("./radio");
 const config = {
     PREFIX: "-",
-    token: "ODkwMzc1Nzk3MDk1OTQ4Mjg5.YUu5FA.c8wAWXU5LHs_t4H4miGlhtMwH6M",
+    token: "use on repl",
     geniusapi: ''
 }
 
